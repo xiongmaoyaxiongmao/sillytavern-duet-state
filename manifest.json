@@ -1,0 +1,14 @@
+{
+  "display_name": "双向状态",
+  "version": "1.0.0",
+  "author": "Codex",
+  "description": "独立 API 维护 char 与 user 的关系、心理、身体和生理状态，回复前判断、回复后结算。",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "generate_interceptor": "duetStateBeforeGeneration",
+  "minimum_client_version": "1.18.0",
+  "auto_update": false
+}
